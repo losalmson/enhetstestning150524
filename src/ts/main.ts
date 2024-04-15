@@ -1,5 +1,5 @@
 import '../scss/main.scss'
 
-function sendMessage(theMessage: string) {
+export function sendMessage(theMessage: string) {
   return theMessage;
-}
+};
